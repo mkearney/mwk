@@ -25,3 +25,5 @@ RoxygenNote: 6.0.1.9000
 Suggests: 
     testthat
 License: MIT + file LICENSE
+URL: https://github.com/mkearney/mwk
+BugReports: https://github.com/mkearney/mwk/issues
